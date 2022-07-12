@@ -44,7 +44,6 @@ namespace ArraysAndLists
                 Console.WriteLine($" {item} even is too balance");
             }
 
-
             foreach (var item in odds)
             {
                 Console.Write($" {item} odds you are odd");
